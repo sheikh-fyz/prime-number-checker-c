@@ -1,0 +1,2 @@
+# prime-number-checker-c
+ASSIGNMENT PROJECT (SPL) - SYLHET ENGINEERING COLLEGE
